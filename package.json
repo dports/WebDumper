@@ -14,7 +14,7 @@
   "dependencies": {
     "@types/node": "^16.0.0",
     "@types/yargs": "^17.0.1",
-    "axios": "^0.21.1",
+    "axios": "^0.28.0",
     "bottleneck": "^2.19.5",
     "cheerio": "^1.0.0-rc.10",
     "yargs": "^17.0.1"
